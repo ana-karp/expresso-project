@@ -92,6 +92,7 @@ input {
   min-height: 157px;
   padding: 1rem;
   border: 2px solid #2f2f2f;
+  border-radius: 10px;
   margin-left: .5rem;
   margin-right: .5rem;
   margin-bottom: 1rem;
